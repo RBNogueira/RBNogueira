@@ -1,5 +1,5 @@
 <h2>
-Eae Pessoal!! Eu Sou o Raphael B. Nogueira, iniciante na area de programação e tecnologia.
+Eae Pessoal!! Eu Sou o Raphael, iniciante na area de programação e tecnologia.
 </h2>
 
 🤔...ainda sem muito o que colocar aqui
