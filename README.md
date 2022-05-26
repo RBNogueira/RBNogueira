@@ -1,4 +1,11 @@
-## Oii! sou o Raphael
+## Oii! Eu sou o Raphael
+
+- 🕹️Gamer
+- ❤️Amante de Tecnologia
+- 🔍Curioso
+- 🎨Desenhista
+- 🤖Apaixonado por IA
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBNogueira&show_icons=true&theme=merko)
 
